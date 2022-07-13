@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "immutable/start-ae3f99ab.js",
+    "file": "immutable/start-801fe18a.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -22,7 +22,7 @@
       "_index-8ad17c67.js"
     ],
     "css": [
-      "immutable/assets/pages/__layout.svelte-f98259e6.css"
+      "immutable/assets/pages/__layout.svelte-af2b1fdd.css"
     ],
     "assets": [
       "immutable/assets/Rubik-VariableFont_wght-db82ea6d.woff2",
