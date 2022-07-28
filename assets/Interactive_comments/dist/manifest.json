@@ -1,0 +1,126 @@
+{
+  "src/lib/assets/img/avatars/image-amyrobson.webp": {
+    "file": "internal/immutable/assets/image-amyrobson-cdc1ce44.webp",
+    "src": "src/lib/assets/img/avatars/image-amyrobson.webp"
+  },
+  "src/lib/assets/img/avatars/image-juliusomo.webp": {
+    "file": "internal/immutable/assets/image-juliusomo-a7edbb25.webp",
+    "src": "src/lib/assets/img/avatars/image-juliusomo.webp"
+  },
+  "src/lib/assets/img/avatars/image-maxblagun.png": {
+    "file": "internal/immutable/assets/image-maxblagun-73319e78.png",
+    "src": "src/lib/assets/img/avatars/image-maxblagun.png"
+  },
+  "src/lib/assets/img/avatars/image-maxblagun.webp": {
+    "file": "internal/immutable/assets/image-maxblagun-84e70fb5.webp",
+    "src": "src/lib/assets/img/avatars/image-maxblagun.webp"
+  },
+  "src/lib/assets/img/avatars/image-ramsesmiron.webp": {
+    "file": "internal/immutable/assets/image-ramsesmiron-4dbcaf12.webp",
+    "src": "src/lib/assets/img/avatars/image-ramsesmiron.webp"
+  },
+  "src/lib/assets/fonts/Rubik-VariableFont_wght.woff2": {
+    "file": "internal/immutable/assets/Rubik-VariableFont_wght-db82ea6d.woff2",
+    "src": "src/lib/assets/fonts/Rubik-VariableFont_wght.woff2"
+  },
+  "src/lib/assets/fonts/Rubik-VariableFont_wght.woff": {
+    "file": "internal/immutable/assets/Rubik-VariableFont_wght-c9a3a00a.woff",
+    "src": "src/lib/assets/fonts/Rubik-VariableFont_wght.woff"
+  },
+  "src/lib/assets/fonts/Rubik-VariableFont_wght.ttf": {
+    "file": "internal/immutable/assets/Rubik-VariableFont_wght-c64f09f2.ttf",
+    "src": "src/lib/assets/fonts/Rubik-VariableFont_wght.ttf"
+  },
+  "src/lib/assets/img/icons/icon-delete.svg": {
+    "file": "internal/immutable/assets/icon-delete-a955972c.svg",
+    "src": "src/lib/assets/img/icons/icon-delete.svg"
+  },
+  "src/lib/assets/img/icons/icon-edit.svg": {
+    "file": "internal/immutable/assets/icon-edit-be86deeb.svg",
+    "src": "src/lib/assets/img/icons/icon-edit.svg"
+  },
+  "src/lib/assets/img/icons/icon-reply.svg": {
+    "file": "internal/immutable/assets/icon-reply-b32cf4fa.svg",
+    "src": "src/lib/assets/img/icons/icon-reply.svg"
+  },
+  ".svelte-kit/runtime/client/start.js": {
+    "file": "internal/immutable/start-908d3afc.js",
+    "src": ".svelte-kit/runtime/client/start.js",
+    "isEntry": true,
+    "imports": [
+      "_index-7788d2dc.js",
+      "_index-8dc398a6.js"
+    ],
+    "dynamicImports": [
+      "src/routes/__layout.svelte",
+      ".svelte-kit/runtime/components/error.svelte",
+      "src/routes/index.svelte"
+    ]
+  },
+  "src/routes/__layout.svelte": {
+    "file": "internal/immutable/pages/__layout.svelte-1a56b66d.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-7788d2dc.js"
+    ],
+    "css": [
+      "internal/immutable/assets/__layout-8bc98435.css"
+    ],
+    "assets": [
+      "internal/immutable/assets/Rubik-VariableFont_wght-db82ea6d.woff2",
+      "internal/immutable/assets/Rubik-VariableFont_wght-c9a3a00a.woff",
+      "internal/immutable/assets/Rubik-VariableFont_wght-c64f09f2.ttf"
+    ]
+  },
+  ".svelte-kit/runtime/components/error.svelte": {
+    "file": "internal/immutable/error.svelte-96907d1c.js",
+    "src": ".svelte-kit/runtime/components/error.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-7788d2dc.js"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "internal/immutable/pages/index.svelte-2499fde3.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-7788d2dc.js",
+      "_index-8dc398a6.js"
+    ],
+    "css": [
+      "internal/immutable/assets/index-27f764a3.css"
+    ],
+    "assets": [
+      "internal/immutable/assets/image-amyrobson-cdc1ce44.webp",
+      "internal/immutable/assets/image-juliusomo-a7edbb25.webp",
+      "internal/immutable/assets/image-maxblagun-73319e78.png",
+      "internal/immutable/assets/image-maxblagun-84e70fb5.webp",
+      "internal/immutable/assets/image-ramsesmiron-4dbcaf12.webp",
+      "internal/immutable/assets/icon-delete-a955972c.svg",
+      "internal/immutable/assets/icon-edit-be86deeb.svg",
+      "internal/immutable/assets/icon-reply-b32cf4fa.svg"
+    ]
+  },
+  "_index-7788d2dc.js": {
+    "file": "internal/immutable/chunks/index-7788d2dc.js"
+  },
+  "_index-8dc398a6.js": {
+    "file": "internal/immutable/chunks/index-8dc398a6.js",
+    "imports": [
+      "_index-7788d2dc.js"
+    ]
+  },
+  "src/routes/__layout.css": {
+    "file": "internal/immutable/assets/__layout-8bc98435.css",
+    "src": "src/routes/__layout.css"
+  },
+  "src/routes/index.css": {
+    "file": "internal/immutable/assets/index-27f764a3.css",
+    "src": "src/routes/index.css"
+  }
+}
